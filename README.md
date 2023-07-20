@@ -1,1 +1,1 @@
-clean md
+clean md!
